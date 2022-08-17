@@ -1,6 +1,7 @@
 **Tarefa de Casa**
 
- #### *O que são Algoritimos* <h4>
+ ### O que são Algoritimos? 
+
 
 Quando se desenvolve um programa, antes de formar as linhas de código e usar uma das mais diversas linguagens de programação, é preciso definir o que esse programa vai fazer. Sendo assim é preciso definir as regras e passos que o programa irá executar afim de realizar a tarefa desejada.
 
